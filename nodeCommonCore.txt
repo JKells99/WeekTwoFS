@@ -1,0 +1,24 @@
+What is the node common core? 
+
+HTTP: Web server. Provide all the basics for running yur own web server 
+
+EVENTS: 
+
+File System:
+
+Console:
+
+Buffer:
+
+Globals:  modules,require(), exports, __fileName,__dirName
+
+
+Stream:
+
+URL:
+
+Path: current path of files 
+
+
+OS: provides operating system related utility methods and properties
+
